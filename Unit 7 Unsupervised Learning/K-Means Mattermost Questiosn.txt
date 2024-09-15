@@ -1,0 +1,13 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2708
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\margl1440\margr1440\vieww11520\viewh8400\viewkind0
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+
+\f0\fs24 \cf0 K-Means Mattermost Questions:\
+1) It gets really close, I haven\'92t quite seen a perfect run yet, however it almost always groups together the major clusters but sometimes 4s are split between their own category and a bunch in the 5s or the same with 2s and 3s. \
+2) I see variations as mentioned above. It will definitely have a well-defined cluster for each group but from time to time you\'92ll see a bunch of one group mixed into another one. 7 almost always improves this, but it does split a group into two which is bad just in the other way. 5 makes it a lot worse, for example it could blend 3s into 3 different groups but everyone else gets their distinct star number.\
+3) \
+4) \
+5) }

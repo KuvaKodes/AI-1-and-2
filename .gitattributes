@@ -1,0 +1,4 @@
+Networks/mnist_train.csv filter=lfs diff=lfs merge=lfs -text
+Unit filter=lfs diff=lfs merge=lfs -text
+9 filter=lfs diff=lfs merge=lfs -text
+Neural filter=lfs diff=lfs merge=lfs -text
